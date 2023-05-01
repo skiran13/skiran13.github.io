@@ -115,7 +115,7 @@ Trained Sklearn multiflow model to handle different types of data drifts on live
 Built a sequential sentence classifier using Heirarchial BiLSTM-CRF model for SemEval2023 Task-6 (ie) Automatic annotation of Indian Case Judgements into different Rhetorical roles and optimized its score
 - Tags: Machine Learning
 - Badges:
-  - NLP[blue]
+  - NLP [blue]
   - Pytorch [red]
   - Huggingface [yellow]
 - Buttons:
@@ -135,7 +135,7 @@ Built an Intrusion Detection System based on Stacking Classifiers and OR Logic G
 Fine-tuned BioBERT for NER task on the PubMed dataset along with manually collected medical transcription data to annotate the transcriptions as drugs, diagnosis, and treatment
 - Tags: Machine Learning
 - Badges:
-  - NLP[blue]
+  - NLP [blue]
   - Pytorch [red]
   - Huggingface [yellow]
 - Buttons:
